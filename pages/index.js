@@ -8,7 +8,7 @@ export default function Home() {
         <title>Salas</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+      <script> function funcao1(){alert("Eu sou um alert")}</script>
       <main className={styles.main}>
         <h1 className={styles.title}>
           Link salas  <a href="#">2020.2</a>
@@ -66,8 +66,8 @@ export default function Home() {
             <h3>PESQUISA OPERACIONAL</h3>
             <p>Segunda-feira 07:30 as 11:10</p>
           </a>
-          <a
-            href=".alert"
+          <a onclik = "funcao1()"
+            href="funcao1()"
             className={styles.card}
           >
             <h3>PROJETO FINAL DE CURSO 2</h3>
@@ -93,7 +93,6 @@ export default function Home() {
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
-      <script id = "alert">alert("Não registrado");</script>
     </div>
   )
 }
