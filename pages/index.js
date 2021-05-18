@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Link salas  <a href="#">2020.2</a>
+          Link salas  <a href="">2020.2</a>
         </h1>
 
         <p className={styles.description}>
@@ -19,7 +19,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="#" className={styles.card2}>
+          <a href="" className={styles.card2}>
             <h3>AUDITORIA DE SISTEMAS</h3>
             <p>Quinta-feira 7:30 as 9:10.</p>
           </a>
@@ -30,7 +30,7 @@ export default function Home() {
           </a>
 
           <a
-            href="#"
+            href=""
             className={styles.card2}
           >
             <h3>DIREITO</h3>
@@ -52,7 +52,7 @@ export default function Home() {
             <p>Terça-feira e quarta-feira  07:30 as 9:10</p>
           </a>
           <a
-            href="#"
+            href=""
             className={styles.card2}
           >
             <h3>LINGUAGENS FORMAIS E AUTÔMATOS</h3>
@@ -66,7 +66,7 @@ export default function Home() {
             <p>Segunda-feira 07:30 as 11:10</p>
           </a>
           <a
-            href="#"
+            href=""
             className={styles.card2}
           >
             <h3>PROJETO FINAL DE CURSO 2</h3>
