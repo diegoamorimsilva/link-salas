@@ -8,7 +8,6 @@ export default function Home() {
         <title>Salas</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <script> function funcao1(){alert("Eu sou um alert")}</script>
       <main className={styles.main}>
         <h1 className={styles.title}>
           Link salas  <a href="#">2020.2</a>
