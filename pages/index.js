@@ -20,7 +20,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://meet.google.com/xaa-hgzh-knm" className={styles.card}>
+          <a href="#" className={styles.card}>
             <h3>AUDITORIA DE SISTEMAS</h3>
             <p>Quinta-feira 7:30 as 9:10.</p>
           </a>
@@ -31,7 +31,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="#"
             className={styles.card}
           >
             <h3>DIREITO</h3>
@@ -53,7 +53,7 @@ export default function Home() {
             <p>Terça-feira e quarta-feira  07:30 as 9:10</p>
           </a>
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="#"
             className={styles.card}
           >
             <h3>LINGUAGENS FORMAIS E AUTÔMATOS</h3>
@@ -67,7 +67,7 @@ export default function Home() {
             <p>Segunda-feira 07:30 as 11:10</p>
           </a>
           <a
-            href="funcao1()"
+            href="#"
             className={styles.card}
           >
             <h3>PROJETO FINAL DE CURSO 2</h3>
