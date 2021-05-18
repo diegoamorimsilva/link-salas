@@ -66,7 +66,7 @@ export default function Home() {
             <h3>PESQUISA OPERACIONAL</h3>
             <p>Segunda-feira 07:30 as 11:10</p>
           </a>
-          <a onclik = "funcao1()"
+          <a
             href="funcao1()"
             className={styles.card}
           >
