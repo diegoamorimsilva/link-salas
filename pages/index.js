@@ -21,12 +21,12 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://meet.google.com/xaa-hgzh-knm" className={styles.card}>
-            <h3>AUDITORIA DE SISTEMAS &rarr;</h3>
+            <h3>AUDITORIA DE SISTEMAS;</h3>
             <p>Quinta-feira 7:30 as 9:10.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>COMPUTAÇÃO GRÁFICA &rarr;</h3>
+            <h3>COMPUTAÇÃO GRÁFICA;</h3>
             <p>Terça-feira e quinta-quinta 13:30 as 15:10. </p>
           </a>
 
@@ -34,7 +34,7 @@ export default function Home() {
             href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
           >
-            <h3>DIREITO &rarr;</h3>
+            <h3>DIREITO;</h3>
             <p>Sexta-feira 15:30 as 18:50.</p>
           </a>
 
@@ -42,42 +42,42 @@ export default function Home() {
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h3>INTELIGÊNCIA ARTIFICIAL &rarr;</h3>
+            <h3>INTELIGÊNCIA ARTIFICIAL;</h3>
             <p>Segunda-feira 07:30 as 11:10</p>
           </a>
           <a
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h3>INTERFACE HOMEM-COMPUTADOR &rarr;</h3>
+            <h3>INTERFACE HOMEM-COMPUTADOR;</h3>
             <p>Terça-feira e quarta-feira  07:30 as 9:10</p>
           </a>
           <a
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h3>LINGUAGENS FORMAIS E AUTÔMATOS &rarr;</h3>
+            <h3>LINGUAGENS FORMAIS E AUTÔMATOS;</h3>
             <p>Segunda-feira 07:30 as 11:10</p>
           </a>
           <a
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h3>PESQUISA OPERACIONAL &rarr;</h3>
+            <h3>PESQUISA OPERACIONAL;</h3>
             <p>Segunda-feira 07:30 as 11:10</p>
           </a>
           <a
             href="https://meet.google.com/xaa-hgzh-knm"
             className={styles.card}
           >
-            <h3>PROJETO FINAL DE CURSO 2 &rarr;</h3>
+            <h3>PROJETO FINAL DE CURSO 2;</h3>
             <p>Quinta-feira 07:30 as 11:10</p>
           </a>
           <a
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h3>REDES DE COMPUTADORES 2 &rarr;</h3>
+            <h3>REDES DE COMPUTADORES 2;</h3>
             <p>Segunda-feira e terça-feira 15:30 as 17:10</p>
           </a>
         </div>
