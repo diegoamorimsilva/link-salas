@@ -20,7 +20,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="#" className={styles.card}>
+          <a href="#" className={styles.card2}>
             <h3>AUDITORIA DE SISTEMAS</h3>
             <p>Quinta-feira 7:30 as 9:10.</p>
           </a>
@@ -32,7 +32,7 @@ export default function Home() {
 
           <a
             href="#"
-            className={styles.card}
+            className={styles.card2}
           >
             <h3>DIREITO</h3>
             <p>Sexta-feira 15:30 as 18:50.</p>
@@ -54,7 +54,7 @@ export default function Home() {
           </a>
           <a
             href="#"
-            className={styles.card}
+            className={styles.card2}
           >
             <h3>LINGUAGENS FORMAIS E AUTÔMATOS</h3>
             <p>Segunda-feira 07:30 as 11:10</p>
@@ -68,7 +68,7 @@ export default function Home() {
           </a>
           <a
             href="#"
-            className={styles.card}
+            className={styles.card2}
           >
             <h3>PROJETO FINAL DE CURSO 2</h3>
             <p>Quinta-feira 07:30 as 11:10</p>
