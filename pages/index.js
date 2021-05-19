@@ -56,7 +56,7 @@ export default function Home() {
             className={styles.card2}
           >
             <h3>LINGUAGENS FORMAIS E AUTÔMATOS</h3>
-            <p>Segunda-feira 07:30 as 11:10</p>
+            <p>Quarta-feira e quinta-feira 17:10 as 18:50</p>
           </a>
           <a
             href="https://meet.google.com/xaa-hgzh-knm"
