@@ -66,11 +66,13 @@ export default function Home() {
             <p>Segunda-feira 07:30 as 11:10</p>
           </a>
           <a
-            href=""
+            href=" https://meet.google.com/aon-ovke-tya
+
+            "
             className={styles.card2}
           >
             <h3>PROJETO FINAL DE CURSO 2</h3>
-            <p>Quinta-feira 07:30 as 11:10</p>
+            <p>Quinta-feira 13:30 as 15:10</p>
           </a>
           <a
             href="https://meet.google.com/wqm-zyup-xgh"
