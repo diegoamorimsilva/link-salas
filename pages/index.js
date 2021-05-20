@@ -26,7 +26,7 @@ export default function Home() {
 
           <a href="https://meet.google.com/ptj-oayi-tgs" className={styles.card}>
             <h3>COMPUTAÇÃO GRÁFICA</h3>
-            <p>Terça-feira e quinta-quinta 13:30 as 15:10. </p>
+            <p>Terça-feira e quinta-quinta 9:30 as 11:10. </p>
           </a>
 
           <a
