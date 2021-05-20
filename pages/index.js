@@ -19,7 +19,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="" className={styles.card2}>
+          <a href="" className={styles.card}>
             <h3>AUDITORIA DE SISTEMAS</h3>
             <p>Quinta-feira 7:30 as 9:10.</p>
           </a>
@@ -69,7 +69,7 @@ export default function Home() {
             href=" https://meet.google.com/aon-ovke-tya
 
             "
-            className={styles.card2}
+            className={styles.card}
           >
             <h3>PROJETO FINAL DE CURSO 2</h3>
             <p>Quinta-feira 13:30 as 15:10</p>
