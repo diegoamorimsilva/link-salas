@@ -30,7 +30,7 @@ export default function Home() {
           </a>
 
           <a
-            href=""
+            href="meet.google.com/cff-etyv-ave"
             className={styles.card2}
           >
             <h3>DIREITO</h3>
