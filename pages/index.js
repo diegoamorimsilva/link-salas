@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -12,12 +13,43 @@ export default function Home() {
         <h1 className={styles.title}>
           Link salas  <a href="">2020.2</a>
         </h1>
-
         <p className={styles.description}>
           {' '}
           <code className={styles.code}>Sempre da trabalho buscar as salas novamente</code>
         </p>
+        <hr></hr>
+        <div className={styles.grid}>
+        <Link href="segunda">
+        <a href="" className={styles.card2}>
+            <strong>Segunda-feira</strong>
+        </a>
+        </Link>
 
+        <Link href="terca">
+        <a href="terca" className={styles.card2}>
+            <strong>Terça-feira</strong>
+        </a>
+        </Link>
+
+        <Link href="quarta">
+        <a href="" className={styles.card2}>
+            <strong>Quarta-feira</strong>
+        </a>
+        </Link>
+
+        <Link href="quinta">
+        <a href="" className={styles.card2}>
+            <strong>Quinta-feira</strong>
+        </a>
+        </Link>
+
+        <Link href="sexta">
+        <a href="" className={styles.card2}>
+            <strong>Sexta-feira</strong>
+        </a>
+        </Link>
+        </div>
+        
         <div className={styles.grid}>
           <a href="" className={styles.card}>
             <h3>AUDITORIA DE SISTEMAS</h3>
@@ -53,7 +85,7 @@ export default function Home() {
           </a>
           <a
             href=""
-            className={styles.card2}
+            className={styles.card}
           >
             <h3>LINGUAGENS FORMAIS E AUTÔMATOS</h3>
             <p>Quarta-feira e quinta-feira 17:10 as 18:50</p>
@@ -65,15 +97,12 @@ export default function Home() {
             <h3>PESQUISA OPERACIONAL</h3>
             <p>Segunda-feira e terça-feira 13:30 as 15:10</p>
           </a>
-          <a
-            href=" https://meet.google.com/aon-ovke-tya
-
-            "
-            className={styles.card}
-          >
+          
+          <a href=" https://meet.google.com/aon-ovke-tya"className={styles.card}>
             <h3>PROJETO FINAL DE CURSO 2</h3>
             <p>Quinta-feira 13:30 as 15:10</p>
           </a>
+
           <a
             href="https://meet.google.com/mxg-dpbs-gre"
             className={styles.card}
