@@ -19,13 +19,13 @@ export default function Segunda() {
         </p>
 
         <div className={styles.grid}>
-        <Link href="segunda">
+        <Link href="segunda#card">
         <a href="" className={styles.card3}>
             <strong>Segunda-feira</strong>
         </a>
         </Link>
 
-        <Link href="terca">
+        <Link href="terca#card">
         <a href="terca" className={styles.card2}>
             <strong>Terça-feira</strong>
         </a>
