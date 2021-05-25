@@ -31,7 +31,7 @@ export default function Home() {
 
           <a
             href="meet.google.com/cff-etyv-ave"
-            className={styles.card2}
+            className={styles.card}
           >
             <h3>DIREITO</h3>
             <p>Sexta-feira 15:30 as 18:50.</p>
@@ -63,7 +63,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>PESQUISA OPERACIONAL</h3>
-            <p>Segunda-feira 07:30 as 11:10</p>
+            <p>Segunda-feira e terça-feira 13:30 as 15:10</p>
           </a>
           <a
             href=" https://meet.google.com/aon-ovke-tya
@@ -75,7 +75,7 @@ export default function Home() {
             <p>Quinta-feira 13:30 as 15:10</p>
           </a>
           <a
-            href="https://meet.google.com/wqm-zyup-xgh"
+            href="https://meet.google.com/mxg-dpbs-gre"
             className={styles.card}
           >
             <h3>REDES DE COMPUTADORES 2</h3>
