@@ -32,19 +32,19 @@ export default function Terca() {
         </a>
         </Link>
 
-        <Link href="quarta">
+        <Link href="quarta#card">
         <a href="" className={styles.card2}>
             <strong>Quarta-feira</strong>
         </a>
         </Link>
 
-        <Link href="quinta">
+        <Link href="quinta#card">
         <a href="" className={styles.card2}>
             <strong>Quinta-feira</strong>
         </a>
         </Link>
 
-        <Link href="sexta">
+        <Link href="sexta#card">
         <a href="" className={styles.card3}>
             <strong>Sexta-feira</strong>
         </a>
