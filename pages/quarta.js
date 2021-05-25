@@ -60,12 +60,18 @@ export default function Terca() {
             <h3>INTERFACE HOMEM-COMPUTADOR</h3>
             <p>Terça-feira e quarta-feira  07:30 as 9:10</p>
           </a>
+
           <a
-            href=""
-            className={styles.card2}
+            href="" className={styles.card}
           >
             <h3>LINGUAGENS FORMAIS E AUTÔMATOS</h3>
             <p>Quarta-feira e quinta-feira 17:10 as 18:50</p>
+          </a>
+          <a
+            href="" className={styles.card}
+          >
+            <h3>Estude no tempo livre!</h3>
+            <p></p>
           </a>
         </div>
 
@@ -85,7 +91,7 @@ export default function Terca() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          <img src="/logo.png" alt="Vercel Logo" className={styles.logo} /> <strong >Amorim</strong>
         </a>
       </footer>
     </div>

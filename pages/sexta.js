@@ -55,10 +55,22 @@ export default function Terca() {
         <div className={styles.grid}>
         <a
             href="https://meet.google.com/cff-etyv-ave"
-            className={styles.card} className={styles.aumento}
+            className={styles.card}
           >
             <h3>DIREITO</h3>
             <p>Sexta-feira 15:30 as 18:50.</p>
+          </a>
+          <a
+            href="#card"
+            className={styles.card}>
+            <h3>Estude no tempo livre!</h3>
+            <p></p>
+          </a>
+          <a
+            href="#card"
+            className={styles.card}>
+            <h3>Faça os trabalhos!</h3>
+            <p></p>
           </a>
         </div>
 
@@ -78,7 +90,7 @@ export default function Terca() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          <img src="/logo.png" alt="Vercel Logo" className={styles.logo} /> <strong >Amorim</strong>
         </a>
       </footer>
     </div>
