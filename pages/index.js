@@ -104,7 +104,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://meet.google.com/mxg-dpbs-gre"
+            href="https://meet.google.com/ifq-whwz-fdd"
             className={styles.card}
           >
             <h3>REDES DE COMPUTADORES 2</h3>

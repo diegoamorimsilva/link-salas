@@ -74,7 +74,7 @@ export default function Terca() {
             <p>Segunda-feira e terça-feira 13:30 as 15:10</p>
           </a>
           <a
-            href="https://meet.google.com/mxg-dpbs-gre"
+            href="https://meet.google.com/ifq-whwz-fdd"
             className={styles.card}
           >
             <h3>REDES DE COMPUTADORES 2</h3>
